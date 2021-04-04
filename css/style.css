@@ -175,7 +175,6 @@ img {
 
 .nav .nav__toggle.toggle-action::before {
   transform: translateY(0px) rotate(45deg);
-  box-shadow: 0 0 0 #fff;
 }
 
 .nav .nav__toggle.toggle-action::after {
